@@ -1,6 +1,6 @@
-## Day 1-5: Plot Transits of HAT-P-3
+## Day 1-5: Plot Modeled Transits  
 2019/09/23 - 2019/09/27
-### Task: Plot Transits of HAT-P-3
+### Task: Plot Modeled Transits  
 Skills you need to learn:
 - import Python package: numpy, matplotlib 
 - read transit file as array
@@ -18,4 +18,6 @@ You can read some material below:
 
 
 Example Figure:
+
+
 ![](example_fig.png)
